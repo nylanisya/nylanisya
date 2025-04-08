@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">a 3rd Grade Software Engineering student at SMKN 1 Katapang <br><br>- 🔭 Looking for another experience <3</p>
+<p align="left">A 3rd Grade Software Engineering student at SMKN 1 Katapang <br><br>- 🔭 Looking for another experience <3</p>
 
 ###
 
