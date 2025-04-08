@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  about nay</h3>
+<h3 align="left">👩‍💻  about</h3>
 
 ###
 
-<p align="left">I'm a 3rd Grade Software Engineering student at SMKN 1 Katapang <br><br>- 🔭 Looking for another experience <3</p>
+<p align="left">a 3rd Grade Software Engineering student at SMKN 1 Katapang <br><br>- 🔭 Looking for another experience <3</p>
 
 ###
 
